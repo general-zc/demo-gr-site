@@ -28,6 +28,3 @@ Key Features
 - **Responsive Design**
 - Optimized for desktop, tablet, and mobile devices.
 - Adaptive layout with a focus on usability and accessibility.
-Responsive Design
-- Optimized for desktop, tablet, and mobile devices.
-- Adaptive layout with a focus on usability and accessibility.
